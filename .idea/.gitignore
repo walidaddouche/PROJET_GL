@@ -5,3 +5,17 @@
 *.xml
 .name
 /codeStyles
+gradle/
+misc.xml
+compiler.xml
+gradle.xml
+jarRepositories.xml
+vcs.xml
+/misc.xml
+/compiler.xml
+/gradle.xml
+/jarRepositories.xml
+/vcs.xml
+
+
+
