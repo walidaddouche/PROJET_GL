@@ -17,6 +17,8 @@ vcs.xml
 /gradle.xml
 /jarRepositories.xml
 /vcs.xml
+codeStyles/
+./codeStyles
 
 
 
