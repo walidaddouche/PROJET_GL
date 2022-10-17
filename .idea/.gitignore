@@ -1,6 +1,7 @@
 # Default ignored files
+../.gradle
 /shelf/
 /workspace.xml
-/
-../.gradle
-../.idea
+*.xml
+.name
+/codeStyles
